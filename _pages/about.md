@@ -7,7 +7,6 @@ comments: false
 #imageshadow: true
 ---
 
-# Wer ist Fit und Knusprig?
 Fit und Knusprig ist ein Kollektiv aus bewegungsliebenden Menschen, die ihre Leidenschaft zum Sport mit anderen Menschen teilen möchten. Besonders in Zeiten von #flattenthecurve ist der einfachste Weg zu guter Laune und Wohlbefinden körperliche Betätigung.
 
 Deshalb livestreamen wir jeden Montag um 19 Uhr ein knuspriges Ganzkörpertraining für dich zum Mitmachen!

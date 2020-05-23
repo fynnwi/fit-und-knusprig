@@ -17,30 +17,30 @@ authors:
   fynn:
     name: Fynn
     display_name: Fynn
-    avatar: 'assets/images/profilbild2.jpg'
+    avatar: 'assets/images/fynn.png'
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: fynn@sharklasers.com
+    #email: fynn@sharklasers.com
     #web: https://www.wowthemes.net/donate/
     #twitter: https://twitter.com/wowthemesnet
     description: "Student aus dem Norden"
   mavin:
     name: Mavin
     display_name: Mavin    
-    avatar: 'assets/images/avatar.png'
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+    avatar: 'assets/images/mavin.png'
+    #gravatar: b1cc14991db7a456fcd761680bbc8f81
+    #email: wowthemesnet@gmail.com
+    #web: https://www.wowthemes.net
+    #twitter: https://twitter.com/wowthemesnet
+    description: "Sportstudent aus Innsbruck lelelel"
   emanuel:
     name: Emanuel
     display_name: Emanuel    
-    avatar: 'assets/images/avatar.png'
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+    avatar: 'assets/images/emanuel.jpg'
+    #gravatar: b1cc14991db7a456fcd761680bbc8f81
+    #email: wowthemesnet@gmail.com
+    #web: https://www.wowthemes.net
+    #twitter: https://twitter.com/wowthemesnet
+    description: "Sportstudent aus Innsbruck lalalala"
 
 
 # Plugins

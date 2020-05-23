@@ -10,8 +10,8 @@ $dark:    $black;
 $enable-rounded: false;
 
 // my code:
-//$accent: #17202A;
-//$primary: $accent;
+$accent: rgb(255, 74, 219);
+$primary: $accent;
 
 
 @import "bootstrap/functions";

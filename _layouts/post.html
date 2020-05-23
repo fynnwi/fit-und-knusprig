@@ -16,23 +16,43 @@ post_class: post-template
             {% if author.avatar %}
             <img class="author-thumb" src="{{site.baseurl}}/{{ author.avatar }}" alt="{{ author.display_name }}">
             {% else %}
-            <img class="author-thumb" src="https://www.gravatar.com/avatar/{{ author.gravatar }}?s=250&d=mm&r=x" alt="{{ author.display_name }}">
+            <img class="author-thumb" src="https://www.gravatar.com/avatar/{{ author.gravatar }}?s=250&d=mm&r=x"
+                alt="{{ author.display_name }}">
             {% endif %}
-        </div>            
+        </div>
+
         <div>
-        Written by <a target="_blank" class="text-dark" href="{{ author.web }}">{{ author.display_name }}</a> on 
-        <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>           
-        {% if page.last_modified_at %}
-        (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
-        {% endif %}
-        </div>            
+            von <a target="_blank" class="text-dark" href="{{ author.web }}">{{ author.display_name }}</a> – 
+            <span class="post-date"><time class="post-date"
+                    datetime="{{ page.date | date:"%Y-%m-%d" }}">{% assign m = page.date | date: "%-m" %}
+                    {{ page.date | date: "%-d." }}
+                    {% case m %}
+                      {% when '1' %}Januar
+                      {% when '2' %}Februar
+                      {% when '3' %}März
+                      {% when '4' %}April
+                      {% when '5' %}Mai
+                      {% when '6' %}Juni
+                      {% when '7' %}Juli
+                      {% when '8' %}August
+                      {% when '9' %}September
+                      {% when '10' %}Oktober
+                      {% when '11' %}November
+                      {% when '12' %}Dezember
+                    {% endcase %}
+                    {{ page.date | date: "%Y" }}</time></span>
+            {% if page.last_modified_at %}
+            (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}"
+                itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
+            {% endif %}
+        </div>
     </div>
     {% endif %}
 </div>
 
 <!-- Adsense under title if enabled from _config.yml (change your pub id and slot) -->
 {% if site.adsense == "enabled" %}
-    {% include adsense-under-header.html %}
+{% include adsense-under-header.html %}
 {% endif %}
 
 <!-- Featured Image -->
@@ -55,7 +75,7 @@ post_class: post-template
 {% include comments.html %}
 
 <!-- Share -->
-{% include share.html %}
+<!-- {% include share.html %} -->
 
 <!-- Related Post -->
 {% include related-posts.html %}
@@ -64,7 +84,7 @@ post_class: post-template
 https://search.google.com/structured-data/testing-tool/u/0/
 ================================================== -->
 {% if page.rating %}
-    <script type="application/ld+json">
+<script type="application/ld+json">
     {
     "@context": "http://schema.org/",
     "@type": "Review",
