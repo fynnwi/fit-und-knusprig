@@ -1,9 +1,9 @@
 # Site
-name: "Memoirs"
-title: "Memoirs"
-description: "I will take you on the fabulous world of exploration. Travel, culture, lifestyle. Eat, Pray, Love!"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+name: "Fit und Knusprig"
+title: "Fit und Knusprig"
+description: "Fit und Knusprig – Frisch aus den Tiroler Alpen"
+logo: 'assets/images/logo_large.png'
+favicon: 'assets/images/logo_large.png'
 baseurl: /jekyll-theme-memoirs
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'demowebsite'
@@ -15,16 +15,17 @@ email: wowthemesnet@gmail.com
 # Authors
 authors:
   sal:
-    name: Sal
-    display_name: Sal
+    name: Fynn
+    display_name: Fynn
+    avatar: 'assets/images/profilbild2.jpg'
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/donate/
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+    email: fynn@sharklasers.com
+    #web: https://www.wowthemes.net/donate/
+    #twitter: https://twitter.com/wowthemesnet
+    description: "Student aus dem Norden"
   john:
-    name: John
-    display_name: John    
+    name: Mavin
+    display_name: Mavin    
     avatar: 'assets/images/avatar.png'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: wowthemesnet@gmail.com

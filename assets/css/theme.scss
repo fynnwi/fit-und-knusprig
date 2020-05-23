@@ -9,6 +9,11 @@ $primary: $teal;
 $dark:    $black;
 $enable-rounded: false;
 
+// my code:
+//$accent: #17202A;
+//$primary: $accent;
+
+
 @import "bootstrap/functions";
 @import 'bootstrap/variables';
 @import "bootstrap/mixins";
