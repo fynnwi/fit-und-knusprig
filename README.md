@@ -1,5 +1,3 @@
-# Memoirs Jekyll Theme
+# Fit und Knusprig - Workouts straight outta Tirol
 
-[Live Demo](https://wowthemesnet.github.io/jekyll-theme-memoirs/) | [Docs & Download](https://bootstrapstarter.com/bootstrap-templates/jekyll-theme-memoirs/) |  [Buy me a coffee](https://www.wowthemes.net/donate/)
-
-![memoirs](https://bootstrapstarter.com/assets/img/themes/memoirs-jekyll.jpg)
+A Jekyll-powered website for Fit und Knusprig. [Have a look.](https://fynnwi.github.io/fit-und-knusprig/)
