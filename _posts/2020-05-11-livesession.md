@@ -7,10 +7,19 @@ image: assets/images/live4.png
 tags: [live]
 ---
 
-Willkommen bei der vierten Live Session Fit und Knusprig!
+Willkommen bei der vierten Live Session Fit und Knusprig! Heute geht's im ersten Teil des Trainings
+um die Bauch- und Rumpfmuskulatur und tun wir noch ein bisschen was für die Beine.
 
-Heute geht's vor allem um Oberkörper- und Rückenmuskulatur.
+### Fokus
+- Bauch, Rumpfstabilität
+- Beine
+
+### Du brauchst
+- nur eine Matte
+
+Viel Spaß!
+
 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://youtu.be/_bkVDzOqTQg" allowfullscreen></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/_bkVDzOqTQg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
