@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Bodyscan Meditation"
+title:  "Meditation #4"
 author: emanuel
 categories: [ Meditation ]
 image: assets/images/meditation.png
