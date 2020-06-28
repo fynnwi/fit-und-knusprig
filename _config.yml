@@ -17,7 +17,7 @@ authors:
   fynn:
     name: Fynn
     display_name: Fynn
-    avatar: 'assets/images/fynn.png'
+    avatar: 'assets/images/fynn.jpg'
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     #email: fynn@sharklasers.com
     #web: https://www.wowthemes.net/donate/
@@ -26,7 +26,7 @@ authors:
   mavin:
     name: Mavin
     display_name: Mavin    
-    avatar: 'assets/images/mavin.png'
+    avatar: 'assets/images/mavin_klein.jpg'
     #gravatar: b1cc14991db7a456fcd761680bbc8f81
     #email: wowthemesnet@gmail.com
     #web: https://www.wowthemes.net
