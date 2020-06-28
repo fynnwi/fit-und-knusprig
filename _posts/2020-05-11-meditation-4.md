@@ -3,7 +3,7 @@ layout: post
 title:  "Meditation #4"
 author: emanuel
 categories: [ Meditation ]
-image: assets/images/meditation.png
+image: assets/images/meditation.jpg
 #tags: [30 Minuten, fortgeschritten]
 ---
 

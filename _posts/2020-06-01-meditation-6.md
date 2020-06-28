@@ -3,7 +3,7 @@ layout: post
 title:  "Meditation #6"
 author: mavin
 categories: [ Meditation ]
-image: assets/images/meditation3.png
+image: assets/images/meditation3.jpg
 #tags: [Weekly Workout]
 ---
 Belohne dich nach einem anstrengenden Workout mit einer entspannenden Meditation.

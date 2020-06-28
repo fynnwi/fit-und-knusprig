@@ -3,7 +3,7 @@ layout: post
 title:  "Meditation #5"
 author: emanuel
 categories: [ Meditation ]
-image: assets/images/atemmeditation.png
+image: assets/images/atemmeditation.jpg
 #tags: [Weekly Workout]
 ---
 Belohne dich nach einem anstrengenden Workout mit einer entspannenden Meditation.

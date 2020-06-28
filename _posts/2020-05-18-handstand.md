@@ -3,7 +3,7 @@ layout: post
 title:  "30 Minuten Oberkörper-Handstand-Training"
 author: emanuel
 categories: [ Workout ]
-image: assets/images/handstand.png
+image: assets/images/handstand.jpg
 tags: [30 Minuten, fortgeschritten]
 ---
 Dieses intensive 30-Minuten Workout für Rücken und Schultern hilft dir, deinen Handstand zu verbessern oder ihn zu lernen.
