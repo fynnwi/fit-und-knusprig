@@ -10,7 +10,7 @@ published: true
 ---
 
 Extra für eure Bikini Figur diesen Sommer haben wir ein neues Bauch-Workout für euch am Start! 
-In nur 10 Minuten kannst du deine Bauchmuskeln so richtig zum Brennen bringen.
+In nur 10 Minuten kannst du deine Bauchmuskeln so richtig zum Brennen bringen. :)
 
 
 <div class="embed-responsive embed-responsive-16by9">
